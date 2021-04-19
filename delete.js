@@ -1,1 +1,1 @@
-console.log("delete === adela")
+console.log("delete === adela && adela");
